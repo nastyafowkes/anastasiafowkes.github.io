@@ -14,12 +14,12 @@ const vercettiFont = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Mohit Virli ✌️",
-  description: "A frontend developer by profession, a creative at heart.",
-  keywords: "Mohit Virli, Frontend Engineer, React Developer, Three.js, Creative Developer, Web Development, Angular, JavaScript, TypeScript, Portfolio",
-  authors: [{ name: "Mohit Virli" }],
-  creator: "Mohit Virli",
-  publisher: "Mohit Virli",
+  title: "Anastasia Fowkes ✌️",
+  description: "Web Designer and Frontend by profession, creative at heart.",
+  keywords: "Anastasia Fowkes, Frontend Engineer, React Developer, Creative Developer, Web Development,HTML, JavaScript, TypeScript, Portfolio",
+  authors: [{ name: "Anastasia Fowkes" }],
+  creator: "Anastasia Fowkes",
+  publisher: "Anastasia Fowkes",
   formatDetection: {
     email: false,
     address: false,
@@ -36,17 +36,17 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Anastasia Fowkes - Web Designer, Data Analyst and Developer",
+    description: "Web Designer and Frontend by profession, creative at heart.",
     url: "https://mohitvirli.github.io",
-    siteName: "Mohit Virli's Portfolio",
+    siteName: "Anastasia Fowkes's Portfolio",
     locale: "en_US",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mohit Virli - Frontend Engineer",
-    description: "Frontend engineer by profession, creative at heart.",
+    title: "Anastasia Fowkes - Web Designer, Data Analyst and Developer",
+    description: "Web Designer and Frontend by profession, creative at heart.",
   },
   verification: {
     google: "GsRYY-ivL0F_VKkfs5KAeToliqz0gCrRAJKKmFkAxBA",
