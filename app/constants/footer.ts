@@ -18,7 +18,7 @@ export const FOOTER_LINKS: FooterLink[] = [
     hoverText: 'Download',
     icon: 'icons/file.svg',
     url: './Anastasia F - Resume.pdf',
-  }
+  },
 	{
     name: 'Fiverr',
     hoverText: 'Hire me',
