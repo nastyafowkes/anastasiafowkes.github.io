@@ -27,9 +27,6 @@ export const PROJECTS: Project[] = [
     url: 'https://perseverancebyu.netlify.app/',
   },
   {
-    
-  },
-  {
     title: 'Landing Page for English School',
     date: 'Apr 2026',
     subtext: 'Developed in Ukrainian a minimalist landing page with animation and future photo usage(when will be provided by the client) and price adjusting, creating a whatsup bot  with linked  bank card.',
